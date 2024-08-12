@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26B82306-12EF-46EA-B91F-8AE1D7CC3530}|WebAPI\\WebAPI.csproj|c:\\users\\user\\source\\repos\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26B82306-12EF-46EA-B91F-8AE1D7CC3530}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B82306-12EF-46EA-B91F-8AE1D7CC3530}|WebAPI\\WebAPI.csproj|c:\\users\\user\\source\\repos\\webapi\\webapi\\services\\funcionarioservice\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B82306-12EF-46EA-B91F-8AE1D7CC3530}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\funcionarioservice\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B82306-12EF-46EA-B91F-8AE1D7CC3530}|WebAPI\\WebAPI.csproj|c:\\users\\user\\source\\repos\\webapi\\webapi\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B82306-12EF-46EA-B91F-8AE1D7CC3530}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T18:15:17.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebAPI\\WebAPI\\Services\\FuncionarioService\\FuncionarioService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\FuncionarioService\\FuncionarioService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebAPI\\WebAPI\\Services\\FuncionarioService\\FuncionarioService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\FuncionarioService\\FuncionarioService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:42:03.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebAPI\\WebAPI\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebAPI\\WebAPI\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:39:32.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
